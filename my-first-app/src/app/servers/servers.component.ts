@@ -9,6 +9,7 @@ export class ServersComponent implements OnInit {
 
   allowNewServers = false;
   serverCreateStatus = 'Nothing...';
+  serverName = '';
 
   constructor() {
 
