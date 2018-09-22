@@ -1,7 +1,9 @@
 .online{
+    color: white;
     background-color: darkgreen;
 }
 
 .offline{
     background-color: darkred;
+    color: red;
 }
